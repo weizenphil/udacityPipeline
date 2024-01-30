@@ -15,8 +15,6 @@
     "react-scripts": "1.0.7"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
     "frontend:install": "cd reactnd-contacts-complete && npm install",
     "backend:install": "cd reactnd-contacts-server && npm install",
     "frontend:build": "cd reactnd-contacts-complete && npm run build",
